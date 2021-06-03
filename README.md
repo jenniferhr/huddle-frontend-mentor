@@ -46,7 +46,7 @@ With this project, I got to practice how to turn layouts into websites with HTML
 
 ## Author
 
-- Frontend Mentor - [@jenniferhr](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@jenniferhr](https://www.frontendmentor.io/profile/jenniferhr)
 - Linkedin - [Jennifer Helen Rodrigues](https://www.linkedin.com/in/jennifer-helen-rodrigues-64b84b163)
 
 ## Acknowledgments
