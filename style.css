@@ -137,7 +137,7 @@ footer {
 
 @media only screen and (max-width: 768px) {
 	body {
-		background-image: url(images/bg-desktop.svg);
+		background-image: url(images/bg-mobile.svg);
 	}
 	/*.main {
 		width: 100%;
